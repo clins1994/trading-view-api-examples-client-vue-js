@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@mathieuc/tradingview": "github:Mathieu2301/TradingView-API",
     "vue": "^3.3.11"
   },
   "devDependencies": {
