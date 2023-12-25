@@ -5,6 +5,8 @@ This project aims to convert [SimpleChart.js](https://github.com/Mathieu2301/Tra
 1. Select market, timeframe and chart type
 2. Listen to price changes on the market according to settings
 
+The main code can be found in [src/App.vue](https://github.com/clins777/trading-view-api-vue-js-example/blob/main/src/App.vue)
+
 ### Current Problem
 
 TradingViewAPI is not meant to run on a browser so the websocket code is not working. I'm considering two solutions
